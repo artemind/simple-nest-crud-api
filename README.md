@@ -44,7 +44,14 @@ The following API routes are available:
 | DELETE | `/api/task-lists/{list id}/tasks/{id}` | Delete a task       |
 
 
-## To be completed
+## 📋 To be completed
 
 - [ ] Add Swagger Doc
 - [ ] Add tests
+
+## 👨‍💻 Author
+
+**Artem Yeremenko**
+
+- Website: [artemind.dev](https://artemind.dev)
+- GitHub: [@artemind](https://github.com/artemind)
