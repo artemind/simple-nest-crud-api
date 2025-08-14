@@ -53,5 +53,5 @@ The following API routes are available:
 
 **Artem Yeremenko**
 
-- Website: [artemind.dev](https://artemind.dev)
+- Website: [artemind.dev](https://artemind.dev/?utm_source=github&utm_medium=repo_simple-nest-crud-api&utm_campaign=personal_brand)
 - GitHub: [@artemind](https://github.com/artemind)
